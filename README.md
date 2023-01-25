@@ -24,8 +24,8 @@ Users should be able to:
 ### Screenshot
 
 ![phone-screenshot](https://user-images.githubusercontent.com/107288313/214455841-a4cb8c00-72ea-4b57-a566-279cd6820574.png)
-![tab screen shot](/tab-screenshot.png)
-![tab screen shot](/desktop-screenshoot.png)
+![tab-screenshot](https://user-images.githubusercontent.com/107288313/214456103-f90896fa-ea69-4513-97e5-fb30f040f291.png)
+![desktop-screenshoot](https://user-images.githubusercontent.com/107288313/214456099-46c92e8d-7425-4b1f-807f-034c4de1caef.png)
 
 
 ### Links

@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Screenshot
 
-![phone screenshot](/phone-screenshot.png)
+![phone screenshot]([/phone-screenshot.png](https://postimg.cc/Whk3XqpH][img]https://i.postimg.cc/Whk3XqpH/phone-screenshot.png[/img][/url))
 ![tab screen shot](/tab-screenshot.png)
 ![tab screen shot](/desktop-screenshoot.png)
 
